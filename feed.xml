@@ -1,7 +1,9 @@
 <products>
   <product>
-    <title>My keyboard</title>
-    <img></img>
+    <title>My aula keyboard</title>
+    <img>https://ryazanov-dmitry.github.io/dummy-site/photos/aula.webp</img>
+    <price>25</price>
+    <stock>1</stock>
+    <condition>used</condition>
   </product>
-
 </products>
