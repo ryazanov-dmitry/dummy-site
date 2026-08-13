@@ -1,22 +1,2 @@
 <products>
-  <product>
-    <id>1</id>
-    <title>Promod Embroidered Velvet Evening Box Clutch Bag</title>
-    <brand>Promod</brand>
-    <images>
-      <img>https://ryazanov-dmitry.github.io/dummy-site/photos/promod1.jpg</img>
-      <img>https://ryazanov-dmitry.github.io/dummy-site/photos/promod2.jpg</img>
-    </images>
-    <description>An elegant evening box clutch featuring a plush black velvet exterior decorated with geometric gold and silver embroidered floral patterns. It is designed with a structured frame, a modern dark block clasp closure, an interior slip pocket, and a sleek gunmetal chain shoulder strap that can be tucked inside.</description>
-    <price currency="EUR">39.99</price>
-    <style>Evening Clutch / Box Bag</style>
-    <color>Black with Gold and Silver Embroidery</color>
-    <material>Velvet Fabric, Metal Accent</material>
-    <size>One Size</size>
-    <barcode>1729032750100141</barcode>
-    <rn_number>37163</rn_number>
-    <condition>used</condition>
-    <stock>1</stock>
-    <category> women bags </category>
-  </product>
 </products>
